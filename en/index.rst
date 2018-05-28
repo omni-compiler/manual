@@ -7,7 +7,7 @@ how to use it, and some tips.
 There are two versions of Omni Compiler, "Stable version" and "Nightly build version".
 The Stable version is the so-called official version,
 and the Nightly build version is a trial version that is released at midnight on `the official website <http://omni-compiler.org>`_.
-In this guidebook, 
+In the guidebook, 
 we usually describe information about the latest Stable version.
 
 .. toctree::
