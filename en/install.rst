@@ -50,11 +50,11 @@ The following shows the procedure for installing software in major Linux distrib
 
     $ sudo aptitude install flex gcc gfortran g++ openjdk-8-jdk libopenmpi-dev openmpi-bin libxml2-dev byacc make perl
 
-* Ubuntu 15.10
+* Ubuntu 18.04
 
 .. code-block:: bash
 
-    $ sudo apt-get install flex gcc gfortran g++ openjdk-7-jdk libopenmpi-dev openmpi-bin libxml2-dev byacc make perl
+    $ sudo apt-get install flex gcc gfortran g++ openjdk-8-jdk libopenmpi-dev openmpi-bin libxml2-dev byacc make perl
 
 * CentOS 7.2
 
