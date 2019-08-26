@@ -2,7 +2,7 @@
 What is Omni Compiler ?
 =========================
 Omni Compiler is a compiler for code including `XcalableMP <http://xcalablemp.org>`_, `XcalableACC <http://xcalablemp.org/XACC.html>`_, and `OpenACC <http://www.openacc.org>`_ directives.
-The base languages supported by Omni Compiler are C language (C90) and Fortran 90 in XcalableMP, and C language (C90) in XcalableACC and OpenACC. 
+The base languages supported by Omni Compiler are C language (C99) and Fortran 2008 in XcalableMP, and C language (C99) in XcalableACC and OpenACC. 
 
 Omni Compiler is one of source-to-source compilers that translate from code including directives to code including runtime calls. 
 In Omni Compiler,  `XcodeML <http://omni-compiler.org/xcodeml.html>`_ is used to analyze code in an intermediate code format of XML expression.
