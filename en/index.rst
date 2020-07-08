@@ -1,7 +1,7 @@
 Omni Compiler Guidebook
 ==================================
 
-This is a guidebook for anyone who wants to learn how to install Omni Compiler,
+2This is a guidebook for anyone who wants to learn how to install Omni Compiler,
 how to use it, and some tips.
 
 There are two versions of Omni Compiler, "Stable version" and "Nightly build version".
